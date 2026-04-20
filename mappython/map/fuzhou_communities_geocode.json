@@ -1,0 +1,1186 @@
+[
+  {
+    "name": "乌山苑",
+    "address": "福州市乌山支路26号(南门兜地铁站D2口步行200米)",
+    "longitude": 119.303745,
+    "latitude": 26.076251,
+    "formatted_address": "福建省福州市鼓楼区乌山南门兜(地铁站)",
+    "error": null
+  },
+  {
+    "name": "乌山文心园西区",
+    "address": "福州市道山路189号",
+    "longitude": 119.296755,
+    "latitude": 26.077486,
+    "formatted_address": "福建省福州市鼓楼区道山路189号",
+    "error": null
+  },
+  {
+    "name": "乌山九巷时光里D区",
+    "address": "福州市乌山支路与斗西路交叉口东南80米",
+    "longitude": 119.301518,
+    "latitude": 26.074254,
+    "formatted_address": "福建省福州市鼓楼区乌山支路/斗西路",
+    "error": null
+  },
+  {
+    "name": "乌山小区",
+    "address": "福州市安泰街道安泰街道安泰街道安泰街道道山路251号",
+    "longitude": 119.294933,
+    "latitude": 26.076583,
+    "formatted_address": "福建省福州市鼓楼区安泰街道道山路251号",
+    "error": null
+  },
+  {
+    "name": "灵响小区",
+    "address": "福州市灵响路63号",
+    "longitude": 119.292816,
+    "latitude": 26.07705,
+    "formatted_address": "福建省福州市鼓楼区灵响路63号",
+    "error": null
+  },
+  {
+    "name": "金品公寓",
+    "address": "福州市道山路219号",
+    "longitude": 119.295838,
+    "latitude": 26.077256,
+    "formatted_address": "福建省福州市鼓楼区道山路219号",
+    "error": null
+  },
+  {
+    "name": "乌山文心园北区",
+    "address": "福州市永祚社巷与隆普营巷交叉口东北60米",
+    "longitude": 119.296954,
+    "latitude": 26.077125,
+    "formatted_address": "福建省福州市鼓楼区永祚社巷/隆普营巷",
+    "error": null
+  },
+  {
+    "name": "白马花园(西洋路)",
+    "address": "福州市白马中路17号(西洋地铁站B西口步行460米)",
+    "longitude": 119.29272,
+    "latitude": 26.069928,
+    "formatted_address": "福建省福州市台江区白马中路17号",
+    "error": null
+  },
+  {
+    "name": "乌山文心园",
+    "address": "福州市道山路189号",
+    "longitude": 119.296755,
+    "latitude": 26.077486,
+    "formatted_address": "福建省福州市鼓楼区道山路189号",
+    "error": null
+  },
+  {
+    "name": "乌山园景",
+    "address": "福州市道山路305号",
+    "longitude": 119.292573,
+    "latitude": 26.076147,
+    "formatted_address": "福建省福州市鼓楼区道山路305号",
+    "error": null
+  },
+  {
+    "name": "文庭雅居",
+    "address": "福州市白马北路与道山路交叉口北100米",
+    "longitude": 119.289367,
+    "latitude": 26.084064,
+    "formatted_address": "福建省福州市鼓楼区白马北路/道山路100号",
+    "error": null
+  },
+  {
+    "name": "洪腾苑",
+    "address": "福州市加洋路1号(西洋地铁站A口步行290米)",
+    "longitude": 119.298429,
+    "latitude": 26.073186,
+    "formatted_address": "福建省福州市鼓楼区加洋路1号",
+    "error": null
+  },
+  {
+    "name": "乌山文心园南区",
+    "address": "福州市道山路189号",
+    "longitude": 119.296755,
+    "latitude": 26.077486,
+    "formatted_address": "福建省福州市鼓楼区道山路189号",
+    "error": null
+  },
+  {
+    "name": "澳门公寓",
+    "address": "福州市澳门路63号",
+    "longitude": 119.297722,
+    "latitude": 26.07945,
+    "formatted_address": "福建省福州市鼓楼区澳门路63号",
+    "error": null
+  },
+  {
+    "name": "嘉园邨",
+    "address": "福州市后面厝3号附近(西洋地铁站B西口步行220米)",
+    "longitude": 119.29379,
+    "latitude": 26.0705,
+    "formatted_address": "福建省福州市台江区后面厝3号",
+    "error": null
+  },
+  {
+    "name": "光禄新坊",
+    "address": "福州市南街街道通湖路280号",
+    "longitude": 119.29366,
+    "latitude": 26.079663,
+    "formatted_address": "福建省福州市鼓楼区南街街道通湖路280号",
+    "error": null
+  },
+  {
+    "name": "山海花园",
+    "address": "福州市白马中路15号",
+    "longitude": 119.291893,
+    "latitude": 26.071125,
+    "formatted_address": "福建省福州市台江区白马中路15号",
+    "error": null
+  },
+  {
+    "name": "华苑公寓",
+    "address": "福州市道山路180号",
+    "longitude": 119.294335,
+    "latitude": 26.076885,
+    "formatted_address": "福建省福州市鼓楼区道山路180号",
+    "error": null
+  },
+  {
+    "name": "西洋公寓",
+    "address": "福州市西洋路163号",
+    "longitude": 119.293985,
+    "latitude": 26.069441,
+    "formatted_address": "福建省福州市台江区西洋路163号",
+    "error": null
+  },
+  {
+    "name": "艺术家园",
+    "address": "福州市白马北路173号",
+    "longitude": 119.292185,
+    "latitude": 26.080497,
+    "formatted_address": "福建省福州市鼓楼区白马北路173号",
+    "error": null
+  },
+  {
+    "name": "上海新苑(交通支路)",
+    "address": "福州市交通支路7号(宁化地铁站A东口步行480米)",
+    "longitude": 119.293371,
+    "latitude": 26.056826,
+    "formatted_address": "福建省福州市台江区交通支路7号宁化",
+    "error": null
+  },
+  {
+    "name": "正祥·尊园",
+    "address": "福州市茶亭街道祖庙路27(茶亭地铁站A东北口步行260米)",
+    "longitude": 119.306572,
+    "latitude": 26.070095,
+    "formatted_address": "福建省福州市台江区茶亭街道祖庙路27号",
+    "error": null
+  },
+  {
+    "name": "三源花园",
+    "address": "福州市交通路8号(茶亭地铁站C口步行360米)",
+    "longitude": 119.308647,
+    "latitude": 26.068394,
+    "formatted_address": "福建省福州市台江区交通路8号茶亭",
+    "error": null
+  },
+  {
+    "name": "小柳景苑",
+    "address": "福州市园垱街20号",
+    "longitude": 119.289444,
+    "latitude": 26.078568,
+    "formatted_address": "福建省福州市鼓楼区园垱街20号",
+    "error": null
+  },
+  {
+    "name": "斗池新居",
+    "address": "福州市白马支路175号",
+    "longitude": 119.29056,
+    "latitude": 26.071284,
+    "formatted_address": "福建省福州市鼓楼区白马支路175号",
+    "error": null
+  },
+  {
+    "name": "双福花园(仁德路)",
+    "address": "福州市八一七中路189号(茶亭地铁站A东北口步行430米)",
+    "longitude": 119.308647,
+    "latitude": 26.068394,
+    "formatted_address": "福建省福州市台江区八一七中路189号茶亭",
+    "error": null
+  },
+  {
+    "name": "金明苑",
+    "address": "福州市黎明街15号",
+    "longitude": 119.288415,
+    "latitude": 26.071135,
+    "formatted_address": "福建省福州市鼓楼区黎明街15号",
+    "error": null
+  },
+  {
+    "name": "兴元公寓",
+    "address": "福州市斗东路3号(南门兜地铁站D3口步行400米)",
+    "longitude": 119.305174,
+    "latitude": 26.073562,
+    "formatted_address": "福建省福州市鼓楼区斗东路3号",
+    "error": null
+  },
+  {
+    "name": "双抛桥一里小区",
+    "address": "福州市达明路17号(东街口地铁站B口步行420米)",
+    "longitude": 119.30139,
+    "latitude": 26.086644,
+    "formatted_address": "福建省福州市鼓楼区达明路17号东街口",
+    "error": null
+  },
+  {
+    "name": "通湖公寓",
+    "address": "福州市通湖路236号",
+    "longitude": 119.29275,
+    "latitude": 26.08218,
+    "formatted_address": "福建省福州市鼓楼区通湖路236号",
+    "error": null
+  },
+  {
+    "name": "中茵·名仕花城",
+    "address": "福州市怡园支路32号(宁化地铁站A口步行380米)",
+    "longitude": 119.293371,
+    "latitude": 26.056826,
+    "formatted_address": "福建省福州市台江区怡园支路32-号商铺宁化",
+    "error": null
+  },
+  {
+    "name": "永辉花园",
+    "address": "福州市群众路68号(茶亭地铁站A东北口步行80米)",
+    "longitude": 119.308647,
+    "latitude": 26.068394,
+    "formatted_address": "福建省福州市台江区群众东路68号茶亭",
+    "error": null
+  },
+  {
+    "name": "新园新村A区",
+    "address": "福州市西二环中路284号",
+    "longitude": 119.283594,
+    "latitude": 26.076181,
+    "formatted_address": "福建省福州市鼓楼区西二环中路284号",
+    "error": null
+  },
+  {
+    "name": "宏杨新城",
+    "address": "福州市杨桥东路118号(西门地铁站D东南口步行250米)",
+    "longitude": 119.293856,
+    "latitude": 26.086007,
+    "formatted_address": "福建省福州市鼓楼区杨桥东路118号",
+    "error": null
+  },
+  {
+    "name": "黎明新村茉莉园",
+    "address": "福州市兴园路221号",
+    "longitude": 119.287303,
+    "latitude": 26.070061,
+    "formatted_address": "福建省福州市鼓楼区兴园路221号",
+    "error": null
+  },
+  {
+    "name": "鸿运星城",
+    "address": "福州市交通路1号(茶亭地铁站C口步行400米)",
+    "longitude": 119.308647,
+    "latitude": 26.068394,
+    "formatted_address": "福建省福州市台江区交通路1号茶亭",
+    "error": null
+  },
+  {
+    "name": "花园新村",
+    "address": "福州市花园路11-1号(南门兜地铁站G1东北口步行290米)",
+    "longitude": 119.304488,
+    "latitude": 26.078915,
+    "formatted_address": "福建省福州市鼓楼区花园路11-1号",
+    "error": null
+  },
+  {
+    "name": "碧玉花园",
+    "address": "福州市东泰路150号",
+    "longitude": 119.302773,
+    "latitude": 26.083424,
+    "formatted_address": "福建省福州市鼓楼区东泰路150号",
+    "error": null
+  },
+  {
+    "name": "双抛桥二里小区",
+    "address": "福州市双抛桥二里16号",
+    "longitude": 119.295552,
+    "latitude": 26.086717,
+    "formatted_address": "福建省福州市鼓楼区双抛桥二里16号",
+    "error": null
+  },
+  {
+    "name": "达明一里",
+    "address": "福州市达明路与大中寺巷交叉口东40米",
+    "longitude": 119.295851,
+    "latitude": 26.087356,
+    "formatted_address": "福建省福州市鼓楼区达明路/大中寺巷",
+    "error": null
+  },
+  {
+    "name": "金皇公寓",
+    "address": "福州市省府路30号(东街口地铁站B口步行220米)",
+    "longitude": 119.297754,
+    "latitude": 26.08735,
+    "formatted_address": "福建省福州市鼓楼区省府路30号2栋",
+    "error": null
+  },
+  {
+    "name": "鑫涛苑",
+    "address": "福州市安泰街道新权南路36号",
+    "longitude": 119.306291,
+    "latitude": 26.072853,
+    "formatted_address": "福建省福州市鼓楼区安泰街道新权南路36号",
+    "error": null
+  },
+  {
+    "name": "东辉花园",
+    "address": "福州市工业路118号",
+    "longitude": 119.302688,
+    "latitude": 26.063742,
+    "formatted_address": "福建省福州市台江区工业路118号",
+    "error": null
+  },
+  {
+    "name": "时代名城",
+    "address": "福州市义洲街道工业路99号",
+    "longitude": 119.298362,
+    "latitude": 26.061992,
+    "formatted_address": "福建省福州市台江区义洲街道工业路99号",
+    "error": null
+  },
+  {
+    "name": "福屿小区一区",
+    "address": "福州市洪山镇福屿路170号",
+    "longitude": 119.282459,
+    "latitude": 26.076038,
+    "formatted_address": "福建省福州市鼓楼区洪山镇福屿路170号",
+    "error": null
+  },
+  {
+    "name": "湖滨花园",
+    "address": "福州市白马北路17号",
+    "longitude": 119.289149,
+    "latitude": 26.085941,
+    "formatted_address": "福建省福州市鼓楼区白马北路17号",
+    "error": null
+  },
+  {
+    "name": "航龙花园",
+    "address": "福州市通湖路(西门地铁站D口步行340米)",
+    "longitude": 119.290055,
+    "latitude": 26.0847,
+    "formatted_address": "福建省福州市鼓楼区通湖路西门(地铁站)",
+    "error": null
+  },
+  {
+    "name": "荷泽小区",
+    "address": "福州市西二环中路辅路与交通西路交叉口西120米",
+    "longitude": 119.291464,
+    "latitude": 26.067842,
+    "formatted_address": "福建省福州市台江区西二环中路与交通西路",
+    "error": null
+  },
+  {
+    "name": "晴园虹锦公寓",
+    "address": "福州市福屿路281号",
+    "longitude": 119.283841,
+    "latitude": 26.072457,
+    "formatted_address": "福建省福州市鼓楼区福屿路281号",
+    "error": null
+  },
+  {
+    "name": "杨桥新苑",
+    "address": "福州市杨南街86号(陆庄地铁站D口步行340米)",
+    "longitude": 119.283178,
+    "latitude": 26.083665,
+    "formatted_address": "福建省福州市鼓楼区杨南街陆庄",
+    "error": null
+  },
+  {
+    "name": "百福苑",
+    "address": "福州市交通路10号(茶亭地铁站B西北口步行240米)",
+    "longitude": 119.308647,
+    "latitude": 26.068394,
+    "formatted_address": "福建省福州市台江区交通路10号茶亭",
+    "error": null
+  },
+  {
+    "name": "梦之园",
+    "address": "福州市工业路403-8号附近",
+    "longitude": 119.279607,
+    "latitude": 26.067599,
+    "formatted_address": "福建省福州市鼓楼区工业路403-8号",
+    "error": null
+  },
+  {
+    "name": "凤鸣公寓",
+    "address": "福州市太阳巷10号(东街口地铁站A口步行140米)",
+    "longitude": 119.30139,
+    "latitude": 26.086644,
+    "formatted_address": "福建省福州市鼓楼区太阳巷10号东街口",
+    "error": null
+  },
+  {
+    "name": "贤南公寓",
+    "address": "福州市贤南路36号(东街口地铁站A口步行160米)",
+    "longitude": 119.30139,
+    "latitude": 26.086644,
+    "formatted_address": "福建省福州市鼓楼区贤南路36号东街口",
+    "error": null
+  },
+  {
+    "name": "白马河公寓",
+    "address": "福州市上海街道交通路173号",
+    "longitude": 119.294729,
+    "latitude": 26.0658,
+    "formatted_address": "福建省福州市台江区上海街道交通路173号",
+    "error": null
+  },
+  {
+    "name": "黎明苑",
+    "address": "福州市洪山镇西二环中路388号",
+    "longitude": 119.283829,
+    "latitude": 26.073683,
+    "formatted_address": "福建省福州市鼓楼区洪山镇西二环中路388号",
+    "error": null
+  },
+  {
+    "name": "湖滨邮电小区",
+    "address": "福州市西洪路33号",
+    "longitude": 119.288057,
+    "latitude": 26.08562,
+    "formatted_address": "福建省福州市鼓楼区西洪路33号",
+    "error": null
+  },
+  {
+    "name": "闽赋苑",
+    "address": "福州市杨桥中路79号",
+    "longitude": 119.287214,
+    "latitude": 26.083602,
+    "formatted_address": "福建省福州市鼓楼区杨桥中路79号",
+    "error": null
+  },
+  {
+    "name": "美景良城",
+    "address": "福州市乌山西路126号",
+    "longitude": 119.282766,
+    "latitude": 26.07161,
+    "formatted_address": "福建省福州市鼓楼区乌山西路126号",
+    "error": null
+  },
+  {
+    "name": "上海新苑西区",
+    "address": "福州市交通支路与交通路交叉口南60米",
+    "longitude": 119.295379,
+    "latitude": 26.066189,
+    "formatted_address": "福建省福州市台江区交通支路/交通路",
+    "error": null
+  },
+  {
+    "name": "新园新村B区",
+    "address": "福州市西二环福屿路165号",
+    "longitude": 119.283125,
+    "latitude": 26.07498,
+    "formatted_address": "福建省福州市鼓楼区福屿路165号",
+    "error": null
+  },
+  {
+    "name": "庭芳苑",
+    "address": "福州市洋中街道工业路71号",
+    "longitude": 119.300652,
+    "latitude": 26.06202,
+    "formatted_address": "福建省福州市台江区洋中街道工业路71号",
+    "error": null
+  },
+  {
+    "name": "兴园新村",
+    "address": "福州市兴园路201号",
+    "longitude": 119.286329,
+    "latitude": 26.073158,
+    "formatted_address": "福建省福州市鼓楼区兴园路201号",
+    "error": null
+  },
+  {
+    "name": "仙塔小区",
+    "address": "福州市仙塔街130号",
+    "longitude": 119.305413,
+    "latitude": 26.082821,
+    "formatted_address": "福建省福州市鼓楼区仙塔街130号",
+    "error": null
+  },
+  {
+    "name": "万科九如府",
+    "address": "福州市杨南街36号(陆庄地铁站D口步行289米)",
+    "longitude": 119.283178,
+    "latitude": 26.083665,
+    "formatted_address": "福建省福州市鼓楼区杨南街陆庄",
+    "error": null
+  },
+  {
+    "name": "F公馆",
+    "address": "福州市怡园巷3(宁化地铁站B西口步行270米)",
+    "longitude": 119.293371,
+    "latitude": 26.056826,
+    "formatted_address": "福建省福州市台江区怡园巷3号宁化",
+    "error": null
+  },
+  {
+    "name": "武夷花园",
+    "address": "福州市杨桥东路157号",
+    "longitude": 119.291049,
+    "latitude": 26.084851,
+    "formatted_address": "福建省福州市鼓楼区杨桥东路157-4",
+    "error": null
+  },
+  {
+    "name": "芍园公寓",
+    "address": "福州市白马北路140号",
+    "longitude": 119.290104,
+    "latitude": 26.081126,
+    "formatted_address": "福建省福州市鼓楼区白马北路140号",
+    "error": null
+  },
+  {
+    "name": "华信花园",
+    "address": "福州市高桥支路6号",
+    "longitude": 119.310029,
+    "latitude": 26.071791,
+    "formatted_address": "福建省福州市台江区高桥支路6号",
+    "error": null
+  },
+  {
+    "name": "荷塘月舍",
+    "address": "福州市茶亭街道广达路浦尾巷66号",
+    "longitude": 119.308325,
+    "latitude": 26.067608,
+    "formatted_address": "福建省福州市台江区茶亭街道广达路浦尾巷66号",
+    "error": null
+  },
+  {
+    "name": "三坊世家",
+    "address": "福州市南街街道驿里社区驿前巷1号",
+    "longitude": 119.292521,
+    "latitude": 26.08298,
+    "formatted_address": "福建省福州市鼓楼区南街街道驿里社区驿前巷1号",
+    "error": null
+  },
+  {
+    "name": "尚林苑",
+    "address": "福州市杨桥东路19号",
+    "longitude": 119.295016,
+    "latitude": 26.084981,
+    "formatted_address": "福建省福州市鼓楼区杨桥东路19号",
+    "error": null
+  },
+  {
+    "name": "交通花园",
+    "address": "福州市红庆里17",
+    "longitude": 119.301828,
+    "latitude": 26.065726,
+    "formatted_address": "福建省福州市台江区红庆里17",
+    "error": null
+  },
+  {
+    "name": "红庆里",
+    "address": "福州市红庆路19号",
+    "longitude": 119.301761,
+    "latitude": 26.063547,
+    "formatted_address": "福建省福州市台江区红庆路19号",
+    "error": null
+  },
+  {
+    "name": "元洪花园",
+    "address": "福州市五一中路32号",
+    "longitude": 119.310824,
+    "latitude": 26.073738,
+    "formatted_address": "福建省福州市鼓楼区五一中路32号",
+    "error": null
+  },
+  {
+    "name": "浦尾小区",
+    "address": "福州市浦尾巷33号",
+    "longitude": 119.308597,
+    "latitude": 26.067991,
+    "formatted_address": "福建省福州市台江区浦尾巷33号",
+    "error": null
+  },
+  {
+    "name": "嘉福小区",
+    "address": "福州市荷泽巷9号",
+    "longitude": 119.28617,
+    "latitude": 26.065253,
+    "formatted_address": "福建省福州市台江区荷泽巷9号",
+    "error": null
+  },
+  {
+    "name": "新园新村",
+    "address": "福州市福屿路165号",
+    "longitude": 119.283125,
+    "latitude": 26.07498,
+    "formatted_address": "福建省福州市鼓楼区福屿路165号",
+    "error": null
+  },
+  {
+    "name": "永裕花园",
+    "address": "福州市红庆里50号",
+    "longitude": 119.29922,
+    "latitude": 26.065296,
+    "formatted_address": "福建省福州市台江区红庆里50号",
+    "error": null
+  },
+  {
+    "name": "裕华公寓",
+    "address": "福州市交通路5号(茶亭地铁站B西北口步行470米)",
+    "longitude": 119.308647,
+    "latitude": 26.068394,
+    "formatted_address": "福建省福州市台江区交通路5号茶亭",
+    "error": null
+  },
+  {
+    "name": "福尚名居",
+    "address": "福州市福三路41号(房地场市场后面)",
+    "longitude": 119.282161,
+    "latitude": 26.072791,
+    "formatted_address": "福建省福州市鼓楼区福三路41号",
+    "error": null
+  },
+  {
+    "name": "联湖花园",
+    "address": "福州市鼓西街道保定社区元帅路1号",
+    "longitude": 119.293934,
+    "latitude": 26.088483,
+    "formatted_address": "福建省福州市鼓楼区鼓西街道保定社区元帅路1号",
+    "error": null
+  },
+  {
+    "name": "融信双杭城别院",
+    "address": "福州市洋中路6号",
+    "longitude": 119.303508,
+    "latitude": 26.060973,
+    "formatted_address": "福建省福州市台江区洋中路6-6号",
+    "error": null
+  },
+  {
+    "name": "王府城",
+    "address": "福州市八一七中路592号",
+    "longitude": 119.304808,
+    "latitude": 26.063973,
+    "formatted_address": "福建省福州市台江区八一七中路592号",
+    "error": null
+  },
+  {
+    "name": "银湖花园",
+    "address": "福州市西洪路79号(西门地铁站B西北口步行320米)",
+    "longitude": 119.287008,
+    "latitude": 26.085421,
+    "formatted_address": "福建省福州市鼓楼区西洪路79号",
+    "error": null
+  },
+  {
+    "name": "天盛小区",
+    "address": "福州市驿前巷5号",
+    "longitude": 119.292089,
+    "latitude": 26.083098,
+    "formatted_address": "福建省福州市鼓楼区驿前巷5号",
+    "error": null
+  },
+  {
+    "name": "翰林苑",
+    "address": "福州市法海路7号",
+    "longitude": 119.305848,
+    "latitude": 26.080303,
+    "formatted_address": "福建省福州市鼓楼区法海路7号",
+    "error": null
+  },
+  {
+    "name": "东辉花园美居亭",
+    "address": "福州市工业路与红庆路交叉口东北120米",
+    "longitude": 119.301476,
+    "latitude": 26.062835,
+    "formatted_address": "福建省福州市台江区工业路/红庆路",
+    "error": null
+  },
+  {
+    "name": "世茂茶亭臻园",
+    "address": "福州市茶亭街道广达路222号",
+    "longitude": 119.307659,
+    "latitude": 26.065131,
+    "formatted_address": "福建省福州市台江区茶亭街道广达路222号",
+    "error": null
+  },
+  {
+    "name": "新园C区",
+    "address": "福州市福屿路142号",
+    "longitude": 119.282643,
+    "latitude": 26.077498,
+    "formatted_address": "福建省福州市鼓楼区福屿路142号",
+    "error": null
+  },
+  {
+    "name": "红霞新城(鼓东路)",
+    "address": "福州市八一七北路15号(东街口地铁站A口步行250米)",
+    "longitude": 119.30139,
+    "latitude": 26.086644,
+    "formatted_address": "福建省福州市鼓楼区八一七北路15号东街口",
+    "error": null
+  },
+  {
+    "name": "湖光花园",
+    "address": "福州市通湖路109号",
+    "longitude": 119.291622,
+    "latitude": 26.087797,
+    "formatted_address": "福建省福州市鼓楼区通湖路109号",
+    "error": null
+  },
+  {
+    "name": "群升国际御园",
+    "address": "福州市洋中街道广达路368号",
+    "longitude": 119.307289,
+    "latitude": 26.062616,
+    "formatted_address": "福建省福州市台江区洋中街道广达路368号",
+    "error": null
+  },
+  {
+    "name": "西洪小区",
+    "address": "福州市西洪路181号",
+    "longitude": 119.286235,
+    "latitude": 26.085592,
+    "formatted_address": "福建省福州市鼓楼区西洪路181号",
+    "error": null
+  },
+  {
+    "name": "卧湖新苑",
+    "address": "福州市鼓西路216号",
+    "longitude": 119.293324,
+    "latitude": 26.089061,
+    "formatted_address": "福建省福州市鼓楼区鼓西路216号",
+    "error": null
+  },
+  {
+    "name": "世茂茶亭俪园",
+    "address": "福州市世茂茶亭俪园1号楼",
+    "longitude": 119.309205,
+    "latitude": 26.065501,
+    "formatted_address": "福建省福州市台江区世茂茶亭俪园1号楼",
+    "error": null
+  },
+  {
+    "name": "绿城芝蘭月华(建设中)",
+    "address": "福州市水松巷与儿童公园路交叉口北100米",
+    "longitude": 119.308681,
+    "latitude": 26.066565,
+    "formatted_address": "福建省福州市台江区水松巷/儿童公园路",
+    "error": null
+  },
+  {
+    "name": "雅颂佳园",
+    "address": "福州市杨桥中路56号",
+    "longitude": 119.287233,
+    "latitude": 26.084196,
+    "formatted_address": "福建省福州市鼓楼区杨桥中路56号",
+    "error": null
+  },
+  {
+    "name": "福屿小区二区",
+    "address": "福州市福屿路180号",
+    "longitude": 119.282668,
+    "latitude": 26.074267,
+    "formatted_address": "福建省福州市鼓楼区福屿路180号",
+    "error": null
+  },
+  {
+    "name": "福禄寿花园",
+    "address": "福州市西洪路32号",
+    "longitude": 119.287677,
+    "latitude": 26.086393,
+    "formatted_address": "福建省福州市鼓楼区西洪路32号",
+    "error": null
+  },
+  {
+    "name": "福屿小区三区",
+    "address": "福州市洪山镇福屿后路40号",
+    "longitude": 119.281764,
+    "latitude": 26.076004,
+    "formatted_address": "福建省福州市鼓楼区洪山镇福屿后路40号",
+    "error": null
+  },
+  {
+    "name": "阳光假日公寓",
+    "address": "福州市福新路28号",
+    "longitude": 119.312454,
+    "latitude": 26.08087,
+    "formatted_address": "福建省福州市鼓楼区福新路28号",
+    "error": null
+  },
+  {
+    "name": "华福苑(仓房街)",
+    "address": "福州市安泰街道五一北路178号",
+    "longitude": 119.309645,
+    "latitude": 26.077888,
+    "formatted_address": "福建省福州市鼓楼区安泰街道五一北路178号",
+    "error": null
+  },
+  {
+    "name": "城守前新村",
+    "address": "福州市东街街道城守前路16号",
+    "longitude": 119.307,
+    "latitude": 26.083719,
+    "formatted_address": "福建省福州市鼓楼区城守前路16号",
+    "error": null
+  },
+  {
+    "name": "陆庄花园",
+    "address": "福州市杨桥中路148号",
+    "longitude": 119.284697,
+    "latitude": 26.083386,
+    "formatted_address": "福建省福州市鼓楼区杨桥中路148号",
+    "error": null
+  },
+  {
+    "name": "融信双杭城朗庭",
+    "address": "福州市山仔里与太平一路交叉口东南120米",
+    "longitude": 119.299839,
+    "latitude": 26.061357,
+    "formatted_address": "福建省福州市台江区山仔里太平一路交叉口",
+    "error": null
+  },
+  {
+    "name": "达明新村二里",
+    "address": "福州市西牙巷与达明路交叉口东约40米",
+    "longitude": 119.295646,
+    "latitude": 26.088137,
+    "formatted_address": "福建省福州市鼓楼区西牙巷/达明路",
+    "error": null
+  },
+  {
+    "name": "肃威花园",
+    "address": "福州市肃威路50号",
+    "longitude": 119.296388,
+    "latitude": 26.088701,
+    "formatted_address": "福建省福州市鼓楼区肃威路50号",
+    "error": null
+  },
+  {
+    "name": "格致小区",
+    "address": "福州市鳌峰坊41号",
+    "longitude": 119.307383,
+    "latitude": 26.080374,
+    "formatted_address": "福建省福州市鼓楼区鳌峰坊41号",
+    "error": null
+  },
+  {
+    "name": "高雅花园",
+    "address": "福州市高桥路31号",
+    "longitude": 119.309581,
+    "latitude": 26.072536,
+    "formatted_address": "福建省福州市台江区高桥路31号",
+    "error": null
+  },
+  {
+    "name": "保定小区",
+    "address": "福州市保定巷1号",
+    "longitude": 119.29111,
+    "latitude": 26.085856,
+    "formatted_address": "福建省福州市鼓楼区保定巷1号",
+    "error": null
+  },
+  {
+    "name": "融信双杭城朗庭二期",
+    "address": "福州市浦东路18号",
+    "longitude": 119.30288,
+    "latitude": 26.0612,
+    "formatted_address": "福建省福州市台江区太平里18号",
+    "error": null
+  },
+  {
+    "name": "闽都创业公寓",
+    "address": "福州市柳前巷8号(水部地铁站C西南口步行280米)",
+    "longitude": 119.315965,
+    "latitude": 26.076086,
+    "formatted_address": "福建省福州市鼓楼区柳前巷8号水部",
+    "error": null
+  },
+  {
+    "name": "洋中花园",
+    "address": "福州市义洲街道洋中路176号",
+    "longitude": 119.30257,
+    "latitude": 26.05956,
+    "formatted_address": "福建省福州市台江区义洲街道洋中路176号",
+    "error": null
+  },
+  {
+    "name": "中福西湖花园",
+    "address": "福州市湖滨路66号",
+    "longitude": 119.28981,
+    "latitude": 26.089653,
+    "formatted_address": "福建省福州市鼓楼区湖滨路66号",
+    "error": null
+  },
+  {
+    "name": "华润乌山府",
+    "address": "福州市祥屿支巷61号",
+    "longitude": 119.279041,
+    "latitude": 26.070723,
+    "formatted_address": "福建省福州市鼓楼区祥屿支巷61号",
+    "error": null
+  },
+  {
+    "name": "双杭城",
+    "address": "福州市洋中路",
+    "longitude": 119.303073,
+    "latitude": 26.058205,
+    "formatted_address": "福建省福州市台江区洋中路",
+    "error": null
+  },
+  {
+    "name": "陆庄庭苑",
+    "address": "福州市柳桥巷10号",
+    "longitude": 119.283295,
+    "latitude": 26.083991,
+    "formatted_address": "福建省福州市鼓楼区柳桥巷10号",
+    "error": null
+  },
+  {
+    "name": "吉水苑",
+    "address": "福州市宁化路1号(宁化地铁站C南口步行260米)",
+    "longitude": 119.293371,
+    "latitude": 26.056826,
+    "formatted_address": "福建省福州市台江区宁化路1号宁化",
+    "error": null
+  },
+  {
+    "name": "河口小区",
+    "address": "福州市八一七中路581号(茶亭地铁站D口步行470米)",
+    "longitude": 119.308647,
+    "latitude": 26.068394,
+    "formatted_address": "福建省福州市台江区八一七中路581号茶亭",
+    "error": null
+  },
+  {
+    "name": "中利花园",
+    "address": "福州市福屿路38号",
+    "longitude": 119.281641,
+    "latitude": 26.079513,
+    "formatted_address": "福建省福州市鼓楼区福屿路38号",
+    "error": null
+  },
+  {
+    "name": "融信双杭城朗庭一期",
+    "address": "福州市义洲街道山仔里18号",
+    "longitude": 119.300539,
+    "latitude": 26.060883,
+    "formatted_address": "福建省福州市台江区义洲街道山仔里18号",
+    "error": null
+  },
+  {
+    "name": "建荣公寓",
+    "address": "福州市鼓西路2号",
+    "longitude": 119.296817,
+    "latitude": 26.089373,
+    "formatted_address": "福建省福州市鼓楼区鼓西路2号",
+    "error": null
+  },
+  {
+    "name": "融信双杭城源筑",
+    "address": "福州市工业路51号",
+    "longitude": 119.303794,
+    "latitude": 26.062054,
+    "formatted_address": "福建省福州市台江区工业路51号",
+    "error": null
+  },
+  {
+    "name": "38号大院",
+    "address": "福州市卧湖路38-2号附近",
+    "longitude": 119.293603,
+    "latitude": 26.089653,
+    "formatted_address": "福建省福州市鼓楼区卧湖路38-2号",
+    "error": null
+  },
+  {
+    "name": "西城公寓",
+    "address": "福州市杨桥中路与白马北路交叉口西100米",
+    "longitude": 119.283457,
+    "latitude": 26.080916,
+    "formatted_address": "福建省福州市鼓楼区杨桥中路/白马北路100号",
+    "error": null
+  },
+  {
+    "name": "万旭·秀冶里",
+    "address": "福州市秀冶里3",
+    "longitude": 119.308277,
+    "latitude": 26.081953,
+    "formatted_address": "福建省福州市鼓楼区秀冶里3号",
+    "error": null
+  },
+  {
+    "name": "湖滨公寓",
+    "address": "福州市鼓西路368号",
+    "longitude": 119.290501,
+    "latitude": 26.087763,
+    "formatted_address": "福建省福州市鼓楼区鼓西路368号",
+    "error": null
+  },
+  {
+    "name": "冠雄花园",
+    "address": "福州市儿童公园路10号",
+    "longitude": 119.311263,
+    "latitude": 26.067066,
+    "formatted_address": "福建省福州市台江区儿童公园路10号",
+    "error": null
+  },
+  {
+    "name": "鼓东小区",
+    "address": "福州市鼓东路124号",
+    "longitude": 119.302977,
+    "latitude": 26.090001,
+    "formatted_address": "福建省福州市鼓楼区鼓东路124号",
+    "error": null
+  },
+  {
+    "name": "庆城花园",
+    "address": "福州市庆城路48号",
+    "longitude": 119.304864,
+    "latitude": 26.089521,
+    "formatted_address": "福建省福州市鼓楼区庆城路48号",
+    "error": null
+  },
+  {
+    "name": "金城大厦",
+    "address": "福州市鼓东路54号(东街口地铁站A口步行430米)",
+    "longitude": 119.30139,
+    "latitude": 26.086644,
+    "formatted_address": "福建省福州市鼓楼区鼓东路54号东街口",
+    "error": null
+  },
+  {
+    "name": "实达文华公寓",
+    "address": "福州市洪山园路79号",
+    "longitude": 119.28091,
+    "latitude": 26.077275,
+    "formatted_address": "福建省福州市鼓楼区洪山园路79号",
+    "error": null
+  },
+  {
+    "name": "民航广场公寓楼",
+    "address": "福州市五一中路134号(儿童公园路6号)",
+    "longitude": 119.311873,
+    "latitude": 26.067076,
+    "formatted_address": "福建省福州市台江区五一中路134号儿童公园路6号",
+    "error": null
+  },
+  {
+    "name": "明望公寓",
+    "address": "福州市福屿后路50号",
+    "longitude": 119.281851,
+    "latitude": 26.074832,
+    "formatted_address": "福建省福州市鼓楼区福屿后路50号",
+    "error": null
+  },
+  {
+    "name": "天怡花园",
+    "address": "福州市北大路266号",
+    "longitude": 119.294621,
+    "latitude": 26.090256,
+    "formatted_address": "福建省福州市鼓楼区北大路266号",
+    "error": null
+  },
+  {
+    "name": "广安城",
+    "address": "福州市国货西路100号",
+    "longitude": 119.309418,
+    "latitude": 26.064608,
+    "formatted_address": "福建省福州市台江区国货西路100号",
+    "error": null
+  },
+  {
+    "name": "中利佳园",
+    "address": "福州市工业路422号",
+    "longitude": 119.282762,
+    "latitude": 26.065294,
+    "formatted_address": "福建省福州市台江区工业路422号",
+    "error": null
+  },
+  {
+    "name": "文景苑",
+    "address": "福州市洋中路178号",
+    "longitude": 119.302681,
+    "latitude": 26.058708,
+    "formatted_address": "福建省福州市台江区洋中路178号",
+    "error": null
+  },
+  {
+    "name": "阳光城",
+    "address": "福州市东水路78号",
+    "longitude": 119.312943,
+    "latitude": 26.082313,
+    "formatted_address": "福建省福州市鼓楼区东水路78号",
+    "error": null
+  },
+  {
+    "name": "建华温泉公寓",
+    "address": "福州市建华支巷6号(水部地铁站A东北口步行440米)",
+    "longitude": 119.315965,
+    "latitude": 26.076086,
+    "formatted_address": "福建省福州市鼓楼区建华支巷6号水部",
+    "error": null
+  },
+  {
+    "name": "元兴小区",
+    "address": "福州市奋斗里95号",
+    "longitude": 119.300014,
+    "latitude": 26.058822,
+    "formatted_address": "福建省福州市台江区奋斗里95号",
+    "error": null
+  },
+  {
+    "name": "融信双杭城MINI墅",
+    "address": "福州市洋中路299号",
+    "longitude": 119.299566,
+    "latitude": 26.061134,
+    "formatted_address": "福建省福州市台江区洋中路299号",
+    "error": null
+  },
+  {
+    "name": "湖景花园",
+    "address": "福州市通湖路39号",
+    "longitude": 119.290981,
+    "latitude": 26.089092,
+    "formatted_address": "福建省福州市鼓楼区通湖路39号",
+    "error": null
+  },
+  {
+    "name": "华湖花园",
+    "address": "福州市鼓西路338号",
+    "longitude": 119.29061,
+    "latitude": 26.08797,
+    "formatted_address": "福建省福州市鼓楼区鼓西路338号",
+    "error": null
+  },
+  {
+    "name": "金湖花园",
+    "address": "福州市鼓西路255号",
+    "longitude": 119.292534,
+    "latitude": 26.088441,
+    "formatted_address": "福建省福州市鼓楼区鼓西路255号",
+    "error": null
+  },
+  {
+    "name": "日月星花园",
+    "address": "福州市群众路278号",
+    "longitude": 119.311662,
+    "latitude": 26.069707,
+    "formatted_address": "福建省福州市台江区群众路278号",
+    "error": null
+  },
+  {
+    "name": "湖畔小区",
+    "address": "福州市西洪路116号",
+    "longitude": 119.285976,
+    "latitude": 26.085909,
+    "formatted_address": "福建省福州市鼓楼区西洪路116号",
+    "error": null
+  }
+]

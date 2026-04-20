@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">开始时间: 2026年4月6日 22:05:00</msg><msg code="30221" type="100">ERROR 030221: 网络数据集必须至少具有一个边源。</msg><msg code="-2147467259" type="100">执行(CreateNetworkDataset)失败。</msg><msg code="0" type="3">运行 失败，结束时间： 2026年4月6日 22:05:00 (历时: 0.16 秒)</msg></messages>

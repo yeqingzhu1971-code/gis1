@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">开始时间: 2026年4月6日 22:11:24</msg><msg code="30024" type="100">ERROR 030024: 求解失败。</msg><msg code="-2147201001" type="100">网络数据集无边元素。它可能未构建。</msg><msg code="-2147467259" type="100">执行(Solve)失败。</msg><msg code="0" type="3">运行 失败，结束时间： 2026年4月6日 22:11:25 (历时: 0.69 秒)</msg></messages>
